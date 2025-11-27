@@ -2,7 +2,7 @@
  [Zu Kaggle](https://www.kaggle.com/datasets/miadul/lifestyle-and-health-risk-prediction)
 
 ## 1. Datensatzbeschreibung
-* **Titel und Quelle**
+ **Titel und Quelle**
 
  * Titel: Lifestyle and Health Risk Prediction
 
@@ -10,7 +10,7 @@
 
  * Ursprung: Synthetisch generierter Datensatz zur Simulation realer Lifestyle- und Wellness-Daten.
 
-* **Struktur und Größe**
+ **Struktur und Größe**
 
 | Merkmal | Wert | Anmerkungen |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@
 | **Spaltenanzahl** | 12 | Anzahl der Features und Zielvariablen. |
 | **Wichtige Spalte** | `health_risk` | Zielvariable (Target); kategorisch (`low`, `high`). |
 
-* **Abdeckung und Lizenz**
+ **Abdeckung und Lizenz**
 
  * Zeitliche Abdeckung: Nicht spezifisch.
 
@@ -27,7 +27,7 @@
 
  * Lizenz: Die Wiederverwendung ist maximal erlaubt, da es sich um synthetische Daten handelt.
 
-* **Basis-Statistiken**
+ **Basis-Statistiken**
 
  * Alter (age): Range von 18 bis 79 Jahren.
 
