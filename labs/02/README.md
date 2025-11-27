@@ -20,3 +20,10 @@
 * Zeilenanzahl: 5.000
 
 * Spaltenanzahl: 12
+
+| Merkmal | Wert | Anmerkungen |
+| :--- | :--- | :--- |
+| **Format** | .csv | Standardisiertes, maschinenlesbares Format. |
+| **Zeilenanzahl** | 5.000 | Größe des Datensatzes. |
+| **Spaltenanzahl** | 12 | Anzahl der Features und Zielvariablen. |
+| **Wichtige Spalte** | `health_risk` | Zielvariable (Target); kategorisch (`low`, `high`). |
